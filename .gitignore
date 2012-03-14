@@ -6,8 +6,8 @@
 .gist-cache
 .pygments-cache
 _deploy
-sass.old
-source.old
+sass
+source
 source/_stash
 source/stylesheets/screen.css
 vendor
