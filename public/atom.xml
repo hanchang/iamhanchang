@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-03-12T17:36:20+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[I am Han Chang]]></title>
+  <link href="http://www.iamhanchang.com/atom.xml" rel="self"/>
+  <link href="http://www.iamhanchang.com/"/>
+  <updated>2012-03-13T21:39:02-05:00</updated>
+  <id>http://www.iamhanchang.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Han Chang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging about every article I read]]></title>
+    <link href="http://www.iamhanchang.com/blog/2012/03/13/blogging-about-every-article-i-read/"/>
+    <updated>2012-03-13T20:41:00-05:00</updated>
+    <id>http://www.iamhanchang.com/blog/2012/03/13/blogging-about-every-article-i-read</id>
+    <content type="html"><![CDATA[<p>Does this sound familiar to you:
+You&#8217;re doing your work, and happen across something you need to look up online. After hopping onto Google and entering your query, you stumble upon some interesting link or mention you want to check out, so you click it or Wikipedia. An hour later, curiosity satiated, you realize that you are nowhere near finishing what you originally set out to do - namely,</p>
+
+<p>This seems to compound if I&#8217;m waiting on something to finish; a quick check on Hacker News becomes a 30 minute marathon.</p>
+
+<p>I&#8217;ve tried all sorts of things like getshitdone, RescueTime, Pomodoro, etc. but it hasn&#8217;t worked out that well.</p>
+
+<p>Now I will try something totally different - instead of squashing this desire, I&#8217;m going to EMBRACE it.</p>
+
+<p>That sounds like a horrible idea (how will I get any work done at this rate?!) and it would be except for one little caveat: if I read an article online, I have to write a corresponding blog post about it. It can be a rebuttal or a summary or a glowing praise of how genius the author is. But I have to write something. Immediately.</p>
+
+<p>I call this the &#8220;Read and Write&#8221; technique.</p>
+
+<p>This forces me to evaluate if reading the article is a good use of my time. In fact, because I know I have to write about it, I&#8217;m much less motivated to read potentially subpar content that I wouldn&#8217;t have given a thought to normally. I&#8217;m also allowed to skip writing if I don&#8217;t finish the article, which incentivizes me to stop reading as soon as I realize something is crap.</p>
+
+<p>Another benefit includes working out my writing muscle. I&#8217;ve really shied away from blogging mostly due to the fact that I felt like I didn&#8217;t have anything to write about, but now I literally have an internet&#8217;s worth of content to dissect, review, and remix, so there&#8217;s literally no excuses except for laziness (which is unacceptable).</p>
+
+<p>My concerns are mostly remembering to actually implement the Read and Write technique, as I can foresee myself forgetting and then having to go through my browser history to retrieve all the crap I&#8217;ve read. However, if I do forget, I&#8217;m confident it will only be once since the crazy writing session that follows will probably haunt me for the rest of my life&#8230;</p>
+
+<p>Stay tuned to see how well this experiment goes!</p>
+]]></content>
+  </entry>
   
 </feed>
